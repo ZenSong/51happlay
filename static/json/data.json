@@ -1,0 +1,408 @@
+{
+"topData_home":
+{"count":9,"data":[{"iconClass":"","id":11,"logoUrl":"https://www.51happlay.com:12012/happlay/picture/Horoscope.png","webName":"Horoscope","webUrl":"https://www.592onegame.com/tarot_en/happlay/html/horoscope.html"},{"iconClass":null,"id":268,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/190701000132876.jpg","webName":"Shoot Hunter","webUrl":"https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a"},{"iconClass":null,"id":488,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907180706585659.png","webName":"temple run 3d","webUrl":"http://stores.91cargame.com/onlinegames13/frame/gframe2.html?gId=295"},{"iconClass":null,"id":275,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907010514183285.jpg","webName":"Cricket","webUrl":"https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a"},{"iconClass":"","id":8,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907190624493988.png","webName":"Fitness","webUrl":"https://www.850175.com"},{"iconClass":"","id":5,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907190632086083.png","webName":"Foods","webUrl":"http://www.sixcook.com/?channel=12106"},{"iconClass":"","id":47,"logoUrl":"https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1906280520258840.png","webName":"Bing","webUrl":"https://www.mbsupersonic.com/3C3SW9/4THFX9F1/?sub1="},{"iconClass":"","id":1,"logoUrl":"https://www.51happlay.com:12012/happlay/picture/news.png","webName":"News","webUrl":"http://www.hastopic.com/?channel=12106"},{"iconClass":"","id":6,"logoUrl":"https://www.51happlay.com:12012/happlay/picture/Netflix.png","webName":"Netflix","webUrl":"https://play.google.com/store/apps/details?id=com.netflix.mediaclient\n\n"}]},
+
+"sortList_home":
+[{"id":8,"type_describe":"title","type_name":"title"},{"iconurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050422051832.png","id":1,"type_name":"Top News","type_describe":"Top News","imageurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050412111475.png"},{"iconurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906031515312751.png","type_describe":"Sports News","imageurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050417523882.png","type_name":"Sports News","id":2},{"type_name":"Videos","iconurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050424202880.png","type_describe":"Videos News","imageurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050419462315.png","id":5},{"type_describe":"Science and Technology","id":3,"iconurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050421094130.png","imageurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050420289060.png","type_name":"Science&Tech"},{"imageurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050715578494.png","type_name":"Game Box","iconurl":"https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050715578031.png","id":7,"type_describe":"Game"}],
+"sortData_home":
+{
+    "Top News": [{
+        "Top News": "389"
+    },
+    [{
+        "id": 896,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202325104014.jpg",
+        "webName": "Trump postpones Denmark trip",
+        "webUrl": "https://www.cnn.com/2019/08/20/politics/trump-cancels-copenhagen/index.html",
+        "addtime": "2019-08-20 23:25:10",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    },
+    {
+        "id": 895,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202307447491.jpg",
+        "webName": "A trail of 'bloody gold' leads to Venezuela's government",
+        "webUrl": "https://www.cnn.com/2019/08/20/americas/venezuela-gold-mining-intl/index.html",
+        "addtime": "2019-08-20 23:07:44",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    },
+    {
+        "id": 888,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202151303077.jpg",
+        "webName": "Trump cancels Denmark visit over Greenland sale spat",
+        "webUrl": "https://www.bbc.com/news/world-us-canada-49416740",
+        "addtime": "2019-08-20 21:51:30",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    },
+    {
+        "id": 887,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202135231982.jpg",
+        "webName": "Cardinal Pell loses appeal against sex abuse convictions",
+        "webUrl": "https://www.bbc.com/news/world-australia-49416573",
+        "addtime": "2019-08-20 21:35:23",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    },
+    {
+        "id": 886,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202127589415.jpg",
+        "webName": "Mexico court approves recreational cocaine use",
+        "webUrl": "https://www.bbc.com/news/world-latin-america-49416357",
+        "addtime": "2019-08-20 21:27:58",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    },
+    {
+        "id": 885,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202126429586.jpg",
+        "webName": "Brazilian Amazon burning at record rate, space agency warns",
+        "webUrl": "https://www.bbc.com/news/world-latin-america-49415973",
+        "addtime": "2019-08-20 21:26:42",
+        "tid": 1,
+        "type_name": "Top News",
+        "is_small": 1
+    }], "https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050412111475.png"],
+    "Sports News": [{
+        "Sports News": "221"
+    },
+    [{
+        "id": 902,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202345023434.jpg",
+        "webName": "Wednesday beat Luton to go top of Championship",
+        "webUrl": "https://www.bbc.com/sport/football/49326868",
+        "addtime": "2019-08-20 23:45:02",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    },
+    {
+        "id": 901,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202343445042.jpg",
+        "webName": "Captain Williams left out of Wales squad",
+        "webUrl": "https://www.bbc.com/sport/football/49404349",
+        "addtime": "2019-08-20 23:43:44",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    },
+    {
+        "id": 900,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202339033616.jpg",
+        "webName": "Chelsea's Zappacosta set to join Roma",
+        "webUrl": "https://www.bbc.com/sport/football/49415761",
+        "addtime": "2019-08-20 23:39:03",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    },
+    {
+        "id": 898,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202334083230.jpg",
+        "webName": "Anisimova withdraws from US Open after father's death",
+        "webUrl": "https://www.bbc.com/sport/tennis/49414028",
+        "addtime": "2019-08-20 23:37:55",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    },
+    {
+        "id": 899,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202335251748.jpg",
+        "webName": "St Louis to get Major League Soccer team in 2022",
+        "webUrl": "https://www.bbc.com/sport/football/49415476",
+        "addtime": "2019-08-20 23:35:25",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    },
+    {
+        "id": 897,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202331407736.jpg",
+        "webName": "Sun's Cas hearing to be held in public",
+        "webUrl": "https://www.bbc.com/sport/swimming/49415239",
+        "addtime": "2019-08-20 23:31:40",
+        "tid": 2,
+        "type_name": "Sports News",
+        "is_small": 1
+    }], "https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050417523882.png"],
+    "Videos": [{
+        "Videos": "178"
+    },
+    [{
+        "id": 206,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/190820232331724.jpg",
+        "webName": "Rep. Tlaib: Netanyahu has taken a page out of Trump's book",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/19/rashida-tlaib-israel-ban-emotional-sot-vpx-lead.cnn_2775275_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:23:31",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    },
+    {
+        "id": 205,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/1908202322099544.jpg",
+        "webName": "Trump says he would like to see Russia rejoin G8",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/20/trump-russia-g7-presser-vpx.cnn_2776367_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:22:09",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    },
+    {
+        "id": 204,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/1908202321142385.jpg",
+        "webName": "Trump: Jewish people shouldn't vote for Democrats",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/20/caption/trump-omar-tlaib-jewish-people-shouldnt-vote-for-democrats-bts-vpx.cnn_2776494_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:21:14",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    },
+    {
+        "id": 203,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/1908202320161006.jpg",
+        "webName": "Former CIA director: We are not protected from ISIS",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/20/caption/leon-panetta-intv-isis-resurgence-ebof-vpx.cnn_2776624_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:20:16",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    },
+    {
+        "id": 202,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/1908202319195084.jpg",
+        "webName": "Board member leaves GOP group over Trump endorsement",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/21/log-cabin-republicans-trump-endorsement-jennifer-horn-resignation-bts-ebof-vpx.cnn_2776622_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:19:19",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    },
+    {
+        "id": 201,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/video/1908202317476976.jpg",
+        "webName": "Trump's head-spinning flip stuns Anderson Cooper",
+        "webUrl": "https://pmd.cdn.turner.com/cnn/big/politics/2019/08/21/trump-background-checks-flip-anderson-cooper-ac360-kth-vpx.cnn_2776641_768x432_1300k.mp4",
+        "addtime": "2019-08-20 23:17:47",
+        "type_name": "Videos",
+        "tid": "5",
+        "iconClass": "",
+        "belong": "video"
+    }], "https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050419462315.png"],
+    "Science&Tech": [{
+        "Science&Tech": "161"
+    },
+    [{
+        "id": 893,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202253246529.jpg",
+        "webName": "Baffled student tells Twitter: 'I'm not a Chinese agent'",
+        "webUrl": "https://www.bbc.com/news/technology-49416617",
+        "addtime": "2019-08-20 22:53:24",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    },
+    {
+        "id": 894,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202251191816.jpg",
+        "webName": "Weak pound draws US and Asian investors into UK tech",
+        "webUrl": "https://www.bbc.com/news/business-49413186",
+        "addtime": "2019-08-20 22:51:19",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    },
+    {
+        "id": 892,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/190820215829839.jpg",
+        "webName": "Google makes software to read aloud sign language",
+        "webUrl": "https://www.bbc.com/news/technology-49410945",
+        "addtime": "2019-08-20 21:58:29",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    },
+    {
+        "id": 891,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202156583719.jpg",
+        "webName": "Facebook to stop stalking you - but only if asked",
+        "webUrl": "https://www.bbc.com/news/technology-49410371",
+        "addtime": "2019-08-20 21:56:58",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    },
+    {
+        "id": 890,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1908202155362791.jpg",
+        "webName": "'World's oldest webcam' to be switched off",
+        "webUrl": "https://www.bbc.com/news/technology-49408335",
+        "addtime": "2019-08-20 21:55:36",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    },
+    {
+        "id": 889,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/190820215425606.jpg",
+        "webName": "Reddit plans short video-streaming trial",
+        "webUrl": "https://www.bbc.com/news/technology-49408339",
+        "addtime": "2019-08-20 21:54:25",
+        "tid": 3,
+        "type_name": "Science&Tech",
+        "is_small": 1
+    }], "https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050420289060.png"],
+    "Game Box": [{
+        "Game Box": "12"
+    },
+    [{
+        "id": 276,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907010515509800.jpg",
+        "webName": "Sisters Cosplay",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-20 04:43:35",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    },
+    {
+        "id": 532,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907220250004591.jpg",
+        "webName": "Help Fighter",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-19 22:35:08",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    },
+    {
+        "id": 491,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907180708554094.png",
+        "webName": "magic tiles 3 online",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-19 22:28:17",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    },
+    {
+        "id": 487,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907180701506780.png",
+        "webName": "helix jump 3d",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-19 22:27:31",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    },
+    {
+        "iconClass": "",
+        "id": 46,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907010520039784.jpg",
+        "webName": "Golden Boot 2019",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-05 02:10:31",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    },
+    {
+        "iconClass": "",
+        "id": 49,
+        "logoUrl": "https://www.51happlay.com:12012/happlay/advertise/ThumIcon/1907010521126565.jpg",
+        "webName": "Window Cleaners",
+        "webUrl": "https://balance.ofclick.com/g/a3cc0261-2a29-4001-9b5f-c7040750ce3a",
+        "addtime": "2019-08-05 02:09:15",
+        "tid": 7,
+        "type_name": "Game Box",
+        "is_small": 1
+    }], "https://www.51happlay.com:12012/happlay/type/ThumIcon/1906050715578494.png"],
+    "title": [{},
+    [], ""]
+},
+
+"avazuadList_home":[],
+"googleList_home":
+[{
+    "adname": "Science&Tech",
+    "id": 5,
+    "scripttext": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "position": "index",
+    "sort": "1",
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"7737859186\"\r\n     data-ad-format=\"auto\"\r\n     data-full-width-responsive=\"true\"></ins>",
+    "adarea": "top",
+    "addescribe": "450*100",
+    "updatetime": "2019-07-17 22:28:37"
+},
+{
+    "scripttext": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-format=\"fluid\"\r\n     data-ad-layout-key=\"-fb+5w+4e-db+86\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"6472249051\"></ins>",
+    "updatetime": "2019-07-17 22:02:27",
+    "adname": "Videos",
+    "position": "index",
+    "addescribe": "yuansheng",
+    "adarea": "top",
+    "id": 8,
+    "sort": "1"
+},
+{
+    "sort": "1",
+    "adname": "Sports News",
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-format=\"fluid\"\r\n     data-ad-layout-key=\"-bb+c7-5h-dl+19k\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"8779165425\"></ins>",
+    "position": "index",
+    "scripttext": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "updatetime": "2019-07-07 21:16:06",
+    "addescribe": "yuansheng",
+    "adarea": "top",
+    "id": 9
+},
+{
+    "position": "index",
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"5771005545\"\r\n     data-ad-format=\"auto\"\r\n     data-full-width-responsive=\"true\"></ins>",
+    "adarea": "top",
+    "addescribe": "yuansheng",
+    "id": 10,
+    "updatetime": "2019-07-12 21:23:59",
+    "sort": "1",
+    "scripttext": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n(adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "adname": "Top News"
+},
+{
+    "position": "index",
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-format=\"fluid\"\r\n     data-ad-layout-key=\"-7o+ee+1b-3o+4t\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"2724233124\"></ins>",
+    "addescribe": "",
+    "sort": "1",
+    "adarea": "buttom",
+    "updatetime": "2019-07-31 22:23:36",
+    "adname": "Game Box",
+    "id": 11,
+    "scripttext": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>"
+},
+{
+    "position": "index",
+    "id": 13,
+    "instext": "<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"3139245648\"\r\n     data-ad-format=\"auto\"\r\n     data-full-width-responsive=\"true\"></ins>",
+    "updatetime": "2019-08-07 02:19:23",
+    "scripttext": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "adarea": "top",
+    "adname": "title",
+    "addescribe": "SEO",
+    "sort": "1"
+}],
+"AdverData_video":
+{"google":{"id":3,"adname":"Science&Tech","instext":"<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-format=\"fluid\"\r\n     data-ad-layout-key=\"-6u+dg+58-2b-89\"\r\n     data-ad-client=\"ca-pub-7936490518220507\"\r\n     data-ad-slot=\"6656661744\"><\/ins>","scripttext":"<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"><\/script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({});\r\n<\/script>","sort":"1","updatetime":"2019-07-21 22:35:23","addescribe":"yuansheng","position":"video","adarea":"top"}},
+"listData_video":
+[{"id":11,"logoUrl":"https://www.51happlay.com:12012/happlay/video/1906102241441892.jpg","webName":"Surveillance video shows David Ortiz being shot","webUrl":"https://www.51happlay.com:12012/happlay/video/details/1906102241442850.mp4","addtime":"2019-06-20"},{"id":64,"logoUrl":"https://www.51happlay.com:12012/happlay/video/1907032358232829.jpg","webName":"See children's drawings of Border Patrol facilities","webUrl":"https://pmd.cdn.turner.com/cnn/big/us/2019/07/03/caption/migrant-children-cage-drawings-detention-orig-llr.cnn_2673372_768x432_1300k.mp4","addtime":"2019-07-03"},{"id":54,"logoUrl":"https://www.51happlay.com:12012/happlay/video/1907030208544891.jpg","webName":"Next-gen superyachts drop anchor in Dubai","webUrl":"https://pmd.cdn.turner.com/cnn/big/travel/2019/03/11/caption/dubai-international-boat-show-2019-global-gateway-lon-orig.cnn_2504097_768x432_1300k.mp4","addtime":"2019-07-03"}]
+}
